@@ -18,7 +18,7 @@ To write a program to find the square root of a number.
 ```
 #Program to find the square root for the given number(newton's method) using function.
 #Developed by :Daksha Subbaian
-#Register Number:23003584
+#Register Number:212223230036
 n=int(input())
 app=0.5*n
 for i in range(1,10):
