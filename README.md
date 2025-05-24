@@ -28,7 +28,8 @@ print("Square root of the number:",app)
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/aebb7857-79e6-4ffe-9d30-17b542413dc3)
+![image](https://github.com/user-attachments/assets/021eabac-dfb3-4a0f-a596-aa51eea2963e)
+
 
 
 ## RESULT:
